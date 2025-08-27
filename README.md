@@ -1,7 +1,6 @@
 This project analyzes call center performance using customer call records. The dataset contains details of customer interactions, call durations, representative performance, customer satisfaction ratings, and purchase behaviors. The goal is to uncover insights into customer service quality and business performance through Excel-based analysis & dashboards.
 
 Project Structure:
-
 Data → Raw dataset containing:
 Call number, Customer ID, Duration, Representative
 Date of call, Purchase amount, Satisfaction rating
